@@ -222,8 +222,14 @@ Inventory and retail operations software built around practical business needs.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nathantugume&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=63E6BE&text_color=E6EDF3&rank_icon=github" height="165" alt="Nathan's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathantugume&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=E6EDF3" height="165" alt="Nathan's top languages" />
+<a href="https://github.com/nathantugume?tab=overview"><img src="https://ghchart.rshah.org/7657FF/nathantugume" alt="Nathan's GitHub contribution activity" width="90%" /></a>
+
+<br />
+<br />
+
+<a href="https://github.com/nathantugume?tab=followers"><img src="https://img.shields.io/github/followers/nathantugume?style=for-the-badge&label=Followers&color=7657FF&logo=github&logoColor=white" alt="GitHub followers" /></a>
+<a href="https://github.com/nathantugume?tab=repositories"><img src="https://img.shields.io/github/repos/nathantugume?style=for-the-badge&label=Repositories&color=00C2FF&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<a href="https://github.com/nathantugume?tab=stars"><img src="https://img.shields.io/github/stars/nathantugume?style=for-the-badge&label=Stars&color=63E6BE&logo=github&logoColor=111827" alt="GitHub stars" /></a>
 
 </div>
 
