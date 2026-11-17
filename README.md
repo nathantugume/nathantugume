@@ -164,8 +164,6 @@ Company administration platform built for practical organizational workflows.
 <a href="https://meridian-tau.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open Meridian" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 ### [EduBook](https://codestationug.alwaysdata.net/login)
