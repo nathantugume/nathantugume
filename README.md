@@ -99,7 +99,99 @@ My work spans Flutter applications, PHP/MySQL business tools, TypeScript product
 </tr>
 </table>
 
-## Featured projects
+## Selected products
+
+These products are presented through their public websites or app listings. Their private source repositories are intentionally not linked.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [RentTrack](https://renttrack-ten.vercel.app)
+
+Offline-first rental management for landlords and tenants.
+
+`Private source` `Flutter` `Public web app`
+
+<a href="https://renttrack-ten.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open RentTrack" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### [SalesTrack](https://salestrack-nine.vercel.app)
+
+POS, inventory, expenses, receipts, and offline-first business operations.
+
+`Private source` `Flutter` `Android`
+
+<a href="https://salestrack-nine.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open SalesTrack" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.nathan.salestrack"><img src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=googleplay&logoColor=111827" alt="SalesTrack on Google Play" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### [AgriTrack](https://play.google.com/store/apps/details?id=com.ugweb.agritrack)
+
+Farm operations for crops, livestock, finances, inventory, and tasks.
+
+`Private source` `Flutter` `Offline-friendly`
+
+<a href="https://play.google.com/store/apps/details?id=com.ugweb.agritrack"><img src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=googleplay&logoColor=111827" alt="AgriTrack on Google Play" /></a>
+<a href="https://agritrack-three.vercel.app"><img src="https://img.shields.io/badge/Public%20page-111827?style=flat-square&logo=vercel&logoColor=white" alt="AgriTrack public page" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### [MyCowMonitor](https://play.google.com/store/apps/details?id=com.bridge.mycattlemonitor)
+
+Herd, milk production, farm finance, analytics, and offline-friendly sync.
+
+`Private source` `Flutter` `Farm tech`
+
+<a href="https://play.google.com/store/apps/details?id=com.bridge.mycattlemonitor"><img src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=googleplay&logoColor=111827" alt="MyCowMonitor on Google Play" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### [Meridian](https://meridian-tau.vercel.app)
+
+Company administration platform built for practical organizational workflows.
+
+`Private source` `Flutter` `Neon` `Vercel`
+
+<a href="https://meridian-tau.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open Meridian" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### [Babiito Family Sacco](https://familysavings.vercel.app)
+
+A public-facing family savings and administration product.
+
+`Private source` `TypeScript` `Web app`
+
+<a href="https://familysavings.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open Babiito Family Sacco" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### [EduBook](https://codestationug.alwaysdata.net/login)
+
+School administration software for day-to-day academic operations.
+
+`Private source` `Laravel` `Education`
+
+<a href="https://codestationug.alwaysdata.net/login"><img src="https://img.shields.io/badge/Public%20demo-7657FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Open EduBook" /></a>
+
+</td>
+</tr>
+</table>
+
+## Open-source projects
 
 <table>
 <tr>
