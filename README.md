@@ -164,17 +164,6 @@ Company administration platform built for practical organizational workflows.
 <a href="https://meridian-tau.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open Meridian" /></a>
 
 </td>
-<td width="33%" valign="top">
-
-### [Babiito Family Sacco](https://familysavings.vercel.app)
-
-A public-facing family savings and administration product.
-
-`Private source` `TypeScript` `Web app`
-
-<a href="https://familysavings.vercel.app"><img src="https://img.shields.io/badge/Live%20app-7657FF?style=flat-square&logo=vercel&logoColor=white" alt="Open Babiito Family Sacco" /></a>
-
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
